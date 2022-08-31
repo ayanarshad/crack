@@ -1,0 +1,75 @@
+body{
+    text-align: center;
+    background-color: black;
+}
+h1, h2, h3, h4, h5, h6, li, p{
+    color: aliceblue;
+}
+h1{
+    font-size: 50px;
+}
+h3{
+    font-size: 15px;
+}
+a{
+    color: rgb(0, 255, 157);
+}
+*{
+user-select: none;
+-webkit-user-drag: none;
+user-zoom: none;
+}
+.link{
+    padding-top: 20px;
+    font-size: 20px;
+}
+.footer{
+    padding-top: 20px;
+    font-size: 20px;
+    padding-bottom: 50px;
+}
+.best h1{
+    font-size: 30px;
+    
+}
+.imglink img{
+    padding-top: 50px;
+    width: 200px;
+    border-radius: 100px;
+}
+.win h1{
+    font-size: 30px;
+}
+.back{
+    padding-top: 20px;
+    padding-left: 20px;
+    text-align: left;
+    padding-bottom: 20px;
+}
+.windows7 h2{
+font-size: 15px;
+}
+#preloader{
+    background: #000 url(/File/img/loading.gif) no-repeat center center;
+    background-size: 30%;
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    z-index: 100;
+}
+.frp h1{
+    font-size: 30px;
+}
+.drivers h1{
+    font-size: 30px;
+}
+.odin h1{
+    font-size: 30px;
+}
+.con i{
+    color: aliceblue;
+    font-size: 90px;
+}
+.con h1{
+    font-size: 30px;
+}
