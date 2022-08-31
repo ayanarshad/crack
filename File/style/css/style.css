@@ -67,8 +67,11 @@ font-size: 15px;
     font-size: 30px;
 }
 .con i{
-    color: aliceblue;
     font-size: 90px;
+    background: rgb(0,0,0);
+background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(0,255,157,1) 100%);
+-webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 .con h1{
     font-size: 30px;
