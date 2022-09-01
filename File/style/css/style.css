@@ -51,7 +51,7 @@ font-size: 15px;
 }
 #preloader{
     background: #000 url(/File/img/loading.gif) no-repeat center center;
-    background-size: 30%;
+    background-size: 150px;
     height: 100%;
     width: 100%;
     position: fixed;
