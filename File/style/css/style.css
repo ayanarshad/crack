@@ -76,3 +76,20 @@ background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(0,255,157,1) 100%);
 .con h1{
     font-size: 30px;
 }
+.samfrp a{
+    font-size: 30px;
+}
+.samfrp{
+    text-align: left;
+    padding-left: 10px;
+}
+.frpapksdata{
+    font-size: 30px;
+    text-align: left;
+    padding-left: 10px;
+}
+.samapps{
+    text-align: left;
+    padding: 10px;
+    font-size: 30px;
+}
